@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnppY2UxbGFyYzN2ZDVnZ3B4eHhncDkzNWJ0a2FuaXZoaHBlMWEycyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Z9JtPniLKdNzPjsEn6/giphy.gif)
-![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnZ5MHN5d2p1OHIxdHVuYzNnODVtbjIwN2NmcWI4NHk5N3ptdjJwcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif)
+[](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnZ5MHN5d2p1OHIxdHVuYzNnODVtbjIwN2NmcWI4NHk5N3ptdjJwcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif)
+
